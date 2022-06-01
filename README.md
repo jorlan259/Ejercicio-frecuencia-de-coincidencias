@@ -26,5 +26,5 @@ Para ejecutar el programa, hágalo ejecutando el archivo DockerFile con los sigu
     image sha256:3055f708fcb25168d01895c1a66613aaf1c840799a1a8bf9d70cc6fc376daf04  
       
     Nota: El ID solo es lo que se encuentra luego de "image sha256:".  
-2. Ejecute: docker run -it <ID>  
+2. Ejecute: docker run -it ID  
    Este comando permitirá ejecutar el programa exponiendo las salidas en la terminal.
