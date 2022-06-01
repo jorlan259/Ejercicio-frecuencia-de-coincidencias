@@ -1,0 +1,2 @@
+allowedFiles = txt
+minimumDataOnFile = 5
